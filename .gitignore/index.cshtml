@@ -1,0 +1,12 @@
+@{
+    ViewBag.Title = "SSRS Report Viewer using iFrame";
+}
+
+<div aria-live="polite" class="row">
+    <div aria-live="polite" class="col-xs-12" style="width:100%; height:100%">
+        @if (ViewData["reportURL"] != "" && ViewData["reportURL"] != null)
+        {
+            <iframe id="reportID" src=@ViewData["reportURL"] style="height: 1057px; width: 100%;" scrolling="yes"></iframe>
+        }
+    </div>
+</div>

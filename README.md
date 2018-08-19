@@ -2,7 +2,7 @@
 Report Viewer Control [ReportViewerForMVC dll] library to replace with iFrame on MVC Project
 </br></br>
 <b>Project Objective:</b></br>
-Main objective of this project to show different SSRS Report in Same View. This project is solved the below issue </br>
+Main objective of this project to show different SSRS Report in Same View. This project is solved the below issues </br>
 https://github.com/armanio123/ReportViewerForMvc/issues/20</br>
 https://github.com/armanio123/ReportViewerForMvc/issues/35
 </br></br>
